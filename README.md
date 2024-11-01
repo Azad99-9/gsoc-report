@@ -38,8 +38,13 @@
   - Cache new data locally on the device, ensuring that the cache database holds the latest fetched data at all times.
   - Populate the application’s user interface with cached data upon opening the application, while fetching the latest data from the API in the background.
   - Allow users to continue with cached data if the application is offline; if online, refresh the user interface with the latest data.
+---
 
+## Documentation
 
+For detailed documentation of my work, please visit [this link](https://docs.talawa.io/docs/category/offline-first-features).
+
+---
 ## Achievements & Goals
 Throughout the GSoC period, I achieved the following:
 
