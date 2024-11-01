@@ -40,6 +40,11 @@
   - Allow users to continue with cached data if the application is offline; if online, refresh the user interface with the latest data.
 ---
 
+## Code
+
+- **Issues**: [link](https://github.com/PalisadoesFoundation/talawa/issues?q=is%3Aissue+is%3Aclosed+author%3AAzad99-9)
+- **Pull Requests**: [link](https://github.com/PalisadoesFoundation/talawa/pulls?q=is%3Apr+is%3Aclosed+author%3AAzad99-9)
+
 ## Documentation
 
 For detailed documentation of my work, please visit the following links:
@@ -52,7 +57,9 @@ For detailed documentation of my work, please visit the following links:
 1. Participating in GSoC has been a transformative journey that has significantly enhanced my professional and technical skills. The experience challenged me to elevate my abilities and pushed me to think critically about problem-solving.
 2. I had the incredible opportunity to collaborate with inspiring mentors who guided me through the intricacies of open-source development. Their expertise and insights were invaluable in shaping my understanding of best practices and innovative approaches.
 3. The open-source community has not only been a catalyst for my personal growth but also allowed me to contribute meaningfully to a project that aligns with my passions. Engaging with this collaborative environment has deepened my appreciation for teamwork and the power of shared knowledge.
-4. 
----
 
 Thank you to my mentor and the entire community for their support and guidance throughout this journey!
+
+
+---
+
