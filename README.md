@@ -3,16 +3,19 @@
 ### About Me
 
 **Name**: *Shaik Mahammad Nabi Azad*
+
 **Git-Hub**: *[Azad99-9](https://github.com/Azad99-9)*
+
 **Linkedin**: *[Shaik Azad](https://www.linkedin.com/in/shaik-azad-4505b7240/)*
 
 ---
 
-### Project Title: *[Offline Capability Enhancement - Talawa Mobile](https://summerofcode.withgoogle.com/programs/2024/projects/UztycmP4)*
+### Project
 
-**Organization**: *[The Palisadoes Foundation](https://github.com/PalisadoesFoundation)*  
+**Project**: *[Offline Capability Enhancement - Talawa Mobile](https://summerofcode.withgoogle.com/programs/2024/projects/UztycmP4)*
 **Mentor**: *[@noman2002](https://github.com/noman2002)*
 **Repository**: *[Talawa](https://github.com/PalisadoesFoundation/talawa)*
+**Organization**: *[The Palisadoes Foundation](https://github.com/PalisadoesFoundation)*  
 
 ---
 
