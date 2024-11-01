@@ -2,7 +2,7 @@
 
 ---
 
-### Project Title: *Offline Capability Enhancement - Talawa Mobile*
+### Project Title: *[Offline Capability Enhancement - Talawa Mobile](https://summerofcode.withgoogle.com/programs/2024/projects/UztycmP4)*
 
 **Organization**: *The Palisadoes Foundation*  
 **Mentor**: *Md Noman Khan, Jason Odoom*  
