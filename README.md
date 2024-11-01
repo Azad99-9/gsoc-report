@@ -19,13 +19,26 @@
 
 - **Primary Goals**:
   - Strengthen Talawa’s offline support to handle offline scenarios gracefully.
-  - Introduce an efficient caching mechanism to the mobile application.
-  - Integrate the chat feature to enhance the application’s usability and interaction capabilities.
-    
+  - Introduce an efficient caching mechanism to the mobile application.    
 ---
 
-## Proposed Solution
-To address the problem, I proposed to *[briefly summarize your proposed solution]*. The solution was designed to be *[mention key aspects like efficient, offline-first, user-friendly, scalable, etc.]*, ensuring *[mention main goal, e.g., accessibility, performance, reliability]*.
+## Proposed Enhancements
+
+- **Make Talawa Offline Support Robust**:
+  - Introduce functionality in the application to handle user offline actions.
+  - Facilitate users with the most recently cached data, allowing them to use the app as usual when offline.
+  - Cache offline user actions performed by the users and update the application’s user interface to reflect these changes, providing a seamless and reliable experience.
+  - Sync all cached user actions with the API one by one in the background as soon as the application is back online, notifying the user of the status of their offline actions.
+  - Achieve parity with other social media apps, making Talawa usable and reliable even in offline situations.
+
+- **Introduce an Efficient Caching Mechanism**:
+  - Implement an efficient caching mechanism essential for data-intensive applications like social media apps.
+  - Improve Talawa’s responsiveness by incorporating this caching mechanism.
+  - Utilize a caching approach similar to popular social media apps like Instagram, where caching occurs frequently every time the application fetches the latest data from the API.
+  - Cache new data locally on the device, ensuring that the cache database holds the latest fetched data at all times.
+  - Populate the application’s user interface with cached data upon opening the application, while fetching the latest data from the API in the background.
+  - Allow users to continue with cached data if the application is offline; if online, refresh the user interface with the latest data.
+
 
 ## Achievements & Goals
 Throughout the GSoC period, I achieved the following:
