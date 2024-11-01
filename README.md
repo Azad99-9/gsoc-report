@@ -13,8 +13,11 @@
 ### Project
 
 **Project**: *[Offline Capability Enhancement - Talawa Mobile](https://summerofcode.withgoogle.com/programs/2024/projects/UztycmP4)*
+
 **Mentor**: *[@noman2002](https://github.com/noman2002)*
+
 **Repository**: *[Talawa](https://github.com/PalisadoesFoundation/talawa)*
+
 **Organization**: *[The Palisadoes Foundation](https://github.com/PalisadoesFoundation)*  
 
 ---
