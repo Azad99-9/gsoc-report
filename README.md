@@ -48,16 +48,6 @@ For detailed documentation of my work, please visit the following links:
 - **ActionHandlerService**: [Documentation Link](https://docs.talawa.io/docs/developers/talawa/offline-first-features/action-handler-service)
 - **Feed Caching**: [Documentation Link](https://docs.talawa.io/docs/developers/talawa/offline-first-features/feed-caching)
   
----
-## Achievements & Goals
-Throughout the GSoC period, I achieved the following:
-
-- **Goal 1**: *[Briefly describe goal and accomplishment, e.g., implementing a specific feature, optimizing a service, etc.]*.
-- **Goal 2**: *[Another main goal and its achievement]*.
-- **Goal 3**: *[Another main goal and its achievement]*.
-
-Each milestone contributed to building a more *[adjective describing impact on project, e.g., robust, user-friendly, scalable]* application, successfully enhancing *[mention specific improvements in user experience, performance, etc.]*.
-
 ## Future Enhancements
 The project opens the door for further enhancements, such as:
 
