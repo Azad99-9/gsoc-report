@@ -10,7 +10,7 @@
 
 ---
 
-### Project
+### About Project
 
 **Project**: *[Offline Capability Enhancement - Talawa Mobile](https://summerofcode.withgoogle.com/programs/2024/projects/UztycmP4)*
 
