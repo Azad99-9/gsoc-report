@@ -2,16 +2,37 @@
 
 ---
 
-### Project Title: *[Your Project Title]*
+### Project Title: *Offline Capability Enhancement - Talawa Mobile*
 
-**Organization**: *[Your Organization's Name]*  
-**Mentor**: *[Mentor's Name]*  
-**Student**: *[Your Name]*  
+**Organization**: *The Palisadoes Foundation*  
+**Mentor**: *Md Noman Khan, Jason Odoom*  
 
 ---
 
 ## Problem Statement
-The project aimed to solve the challenge of *[briefly describe the problem or gap in the application or system you addressed]*. This issue impacted *[mention users or systems]* by *[briefly describe the impact or why solving this was critical]*.
+
+- **Primary Goals**:
+  - Strengthen Talawa’s offline support to handle offline scenarios gracefully.
+  - Introduce an efficient caching mechanism to the mobile application.
+
+- **Previous Limitations**:
+  - Talawa previously lacked robust offline handling capabilities.
+  - The app did not have an efficient caching system, leading to limited functionality without a stable network connection.
+
+- **Proposed Solutions**:
+  - **Offline Actions Feature**:
+    - Develop a feature to handle user actions when offline, allowing users to perform actions that sync automatically when back online.
+    - Integrate this feature with existing app functionalities (e.g., liking posts, creating events), providing a seamless experience similar to popular social media platforms like Instagram and WhatsApp.
+  
+  - **Caching Mechanism**:
+    - Implement a caching system that complements offline actions, ensuring that:
+      - User actions performed offline are stored until they can be synced.
+      - Frequently accessed data (e.g., feed, messages) is cached to reduce loading times and improve usability in low-connectivity situations.
+
+- **Objective for User Experience**:
+  - Deliver a smooth, uninterrupted experience for users, even during inconsistent network conditions, making Talawa a reliable and user-friendly application.
+
+---
 
 ## Proposed Solution
 To address the problem, I proposed to *[briefly summarize your proposed solution]*. The solution was designed to be *[mention key aspects like efficient, offline-first, user-friendly, scalable, etc.]*, ensuring *[mention main goal, e.g., accessibility, performance, reliability]*.
