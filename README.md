@@ -1,11 +1,18 @@
 # Google Summer of Code 2024 Final Report
+---
+### About Me
+
+**Name**: *Shaik Mahammad Nabi Azad*
+**Git-Hub**: *[Azad99-9](https://github.com/Azad99-9)*
+**Linkedin**: *[Shaik Azad](https://www.linkedin.com/in/shaik-azad-4505b7240/)*
 
 ---
 
 ### Project Title: *[Offline Capability Enhancement - Talawa Mobile](https://summerofcode.withgoogle.com/programs/2024/projects/UztycmP4)*
 
-**Organization**: *The Palisadoes Foundation*  
-**Mentor**: *Md Noman Khan, Jason Odoom*  
+**Organization**: *[The Palisadoes Foundation](https://github.com/PalisadoesFoundation)*  
+**Mentor**: *[@noman2002](https://github.com/noman2002)*
+**Repository**: *[Talawa](https://github.com/PalisadoesFoundation/talawa)*
 
 ---
 
@@ -13,7 +20,7 @@
 
 - **Initial Limitations**:
   - Talawa previously lacked robust offline handling capabilities.
-  - The app did not have an efficient caching system, leading to limited functionality without a stable network connection.
+  - The app did not have an efficient caching system, leading to limited functionality and a lack of a stable network connection.
   - Without the internet, Talawa behaved inconsistently, displaying loading indicators across screens and allowing no other actions.
   - If launched offline, the application was barely usable, and some situations even led to app crashes.
 
