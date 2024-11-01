@@ -42,8 +42,12 @@
 
 ## Documentation
 
-For detailed documentation of my work, please visit [this link](https://docs.talawa.io/docs/category/offline-first-features).
+For detailed documentation of my work, please visit the following links:
 
+- **Offline Actions Feature**: [Documentation Link](https://docs.talawa.io/docs/developers/talawa/offline-first-features/offline-user-actions)
+- **ActionHandlerService**: [Documentation Link](https://docs.talawa.io/docs/developers/talawa/offline-first-features/action-handler-service)
+- **Feed Caching**: [Documentation Link](https://docs.talawa.io/docs/developers/talawa/offline-first-features/feed-caching)
+  
 ---
 ## Achievements & Goals
 Throughout the GSoC period, I achieved the following:
